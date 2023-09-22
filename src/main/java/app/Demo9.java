@@ -31,7 +31,7 @@ public class Demo9 {
 			FrmManteProd v = new FrmManteProd();
 			v.setVisible(true);
 			//dispose();
-			
+			//
 			
 		} catch (Exception e) {
 			JOptionPane.showMessageDialog(null, "Error: Usuario o clave incorrecto");
